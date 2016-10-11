@@ -1,8 +1,9 @@
 
-Goal: produce working software from problem definitions crafted by Product Managers
+*Goal*: produce working software from problem definitions crafted by Product Managers
 
 [Example mapping helps breakdown stories into specifications](https://cucumber.io/blog/2015/12/08/example-mapping-introduction)
 
+# Process components
 ## [Job Story](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
 - Situation
 - Motivation
@@ -30,7 +31,7 @@ Goal: produce working software from problem definitions crafted by Product Manag
   - Vendedor tenia 1 producto (caja) y un cart item, agrego mismo producto (unidad), solo hay un cart item
 
 ## Acceptance Tests
-- Ejemplos traducidos a Scenarios de [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) (para test en Cucumber)
+- *Examples* traducidos a Scenarios de [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) (para test en Cucumber)
   - Given: preconditions
   - When: action
   - Then: testable outcome
