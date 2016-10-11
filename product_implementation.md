@@ -1,3 +1,8 @@
+
+Goal: produce working software from problem definitions crafted by Product Managers
+
+[Example mapping helps breakdown stories into specifications](https://cucumber.io/blog/2015/12/08/example-mapping-introduction)
+
 ## [Job Story](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
 - Situation
 - Motivation
